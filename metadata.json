@@ -1,0 +1,6 @@
+{
+  "name": "F.M Brothers Invoice Management System",
+  "description": "Professional A4 printable invoice management system for F.M Brothers shipping and customs clearing with persistent IndexedDB storage and auto calculations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
